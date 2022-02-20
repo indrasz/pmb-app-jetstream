@@ -1,0 +1,19 @@
+.navbar-fixed-top.scrolled {
+    background-color: #fff !important;
+    transition: background-color 200ms linear;
+}
+
+.section-page-register{
+    .form-control{
+        background-color: #F3F3F3;
+    }
+    .btn-register{
+        background-color: #8AB6D6;
+        font-weight: 700;
+        &:hover{
+            background-color: #7ec9ff;
+            transition: 0.50s;
+        }
+    }
+}
+  

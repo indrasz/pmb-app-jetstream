@@ -1,0 +1,21 @@
+.navbar-fixed-top.scrolled {
+  background-color: #fff !important;
+  -webkit-transition: background-color 200ms linear;
+  transition: background-color 200ms linear;
+}
+
+.section-page-register .form-control {
+  background-color: #F3F3F3;
+}
+
+.section-page-register .btn-register {
+  background-color: #8AB6D6;
+  font-weight: 700;
+}
+
+.section-page-register .btn-register:hover {
+  background-color: #7ec9ff;
+  -webkit-transition: 0.50s;
+  transition: 0.50s;
+}
+/*# sourceMappingURL=main.css.map */
